@@ -22,4 +22,4 @@ seats.send_keys(Keys.RETURN)
 # TODO: handle actual purchase
 
 # driver.quit()
-  
+a = 4
